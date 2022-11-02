@@ -7,7 +7,7 @@ body:
       value: |
         # Welcome
         ```
-        Thanks for taking the time to fill out this bug!
+        Thank you for going out of your way to report this bug.
         ```
 
   - type: checkboxes
